@@ -5,6 +5,7 @@ env:
   main_project_module: TMessagesProj_App
 
 on:
+
   push:
     branches:
       - 'Mercurygram'
